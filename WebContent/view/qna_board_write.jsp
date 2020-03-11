@@ -69,7 +69,7 @@
 <script src="../js/writervalidation.js"></script>
 <%@include file="../include/footer.jsp"%>
 
-
+<!-- 이 주석을 넣겠다222 -->
 
 
 
