@@ -6,3 +6,4 @@ import javax.servlet.http.HttpServletResponse;
 public interface Action {
 	public ActionForward execute(HttpServletRequest req, HttpServletResponse res) throws Exception;
 }
+// 이 주석을 넣겠다.
